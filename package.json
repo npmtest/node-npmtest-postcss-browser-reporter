@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [postcss-browser-reporter (v0.5.0)](https://github.com/postcss/postcss-browser-reporter#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-browser-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-browser-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-browser-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-browser-reporter)",
+    "description": "#### basic test coverage for  [postcss-browser-reporter (v0.5.0)](https://github.com/postcss/postcss-browser-reporter#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-browser-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-browser-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-browser-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-browser-reporter)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "postcss-browser-reporter": "*",
